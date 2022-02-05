@@ -1,7 +1,7 @@
 import React from 'react';
 
-const hello = () => {
-  return <div>HELLO THERE</div>;
+const Hello = () => {
+  return <div>Hello THERE</div>;
 };
 
-export default hello;
+export default Hello;
